@@ -4,14 +4,18 @@
 ![[Drawing 2026-03-10 12.58.16.excalidraw.svg]]
 ### Transformations
 #### Going to the next frame ($i$) from the previous frame ($i-1$)
-$$A_{i} = \begin{bmatrix}
+$$
+A_{i} = \begin{bmatrix}
 R^{i-1}_{i} & d^{i-1}_{i} \\ \\
 0 & 1
-\end{bmatrix}$$
+\end{bmatrix}
+$$
 #### Going to the end-effector frame ($n$) from the base frame ($0$)
 
 
-$$H^0_{n} = \prod^{i=n}_{i=1} A_{i}(q_{i})$$
+$$
+H^0_{n} = \prod^{i=n}_{i=1} A_{i}(q_{i})
+$$
 ## Forward Kinematics Approaches
 ### Geometric Approach
 ![[Pasted image 20260311061432.png]]
@@ -21,6 +25,7 @@ $$H^0_{n} = \prod^{i=n}_{i=1} A_{i}(q_{i})$$
 #### Frames
 1. Assign axes on the joints
 2. Assign axes on the last important link (manipulator)
+
 ![[Lecture 3 - Forward Kinematics 2026-03-10 14.26.48.excalidraw.svg]]
 #### Transformation Parameters
 > [!tip] We are just moving from the origin of the current frame to the origin of the next frame
@@ -36,11 +41,15 @@ $$H^0_{n} = \prod^{i=n}_{i=1} A_{i}(q_{i})$$
 | **Rotating** around the *new x axis* of the next frame to make the current z axis align with the next z axis              | $\alpha$  | Link twist   |
 |                                                                                                                           |           |              |
 
-$$T^{i-1}_{i} = T_{Rot,z_{i-1},\theta_{i}} \ T_{Tran,z_{i-1},d_{i}} \ T_{Tran,x_{i},a_{i}} \ T_{Rot,x_{i},\alpha_{i}}$$
+$$
+T^{i-1}_{i} = T_{Rot,z_{i-1},\theta_{i}} \ T_{Tran,z_{i-1},d_{i}} \ T_{Tran,x_{i},a_{i}} \ T_{Rot,x_{i},\alpha_{i}}
+$$
 This results in a **total homogenous transformation matrix** from frame $i-1$ to frame $i$
 
 To get the transformation **from the base frame to the end effector frame** we just multiply the transformations between each two frames together
-$$T^0_{n} = T^0_{1} \ T^1_{2} \ T^2_{3}\dots T^{n-3}_{n-2} \ T^{n-2}_{n-1} \ T^{n-1}_{n}$$
+$$
+T^0_{n} = T^0_{1} \ T^1_{2} \ T^2_{3}\dots T^{n-3}_{n-2} \ T^{n-2}_{n-1} \ T^{n-1}_{n}
+$$
 ## Resources
 ### Lectures
 - [L03_Intro to Robotics_Lb1_DH-Convention.mp4](https://drive.google.com/open?id=1hrRtHCPlWAIuTMXK17acbuiJf-d6bl_D&usp=drive_copy)
