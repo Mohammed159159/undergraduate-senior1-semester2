@@ -1,0 +1,19 @@
+- Kinematic chain (open / closed)
+- Serial vs. Parallel manipulator
+- Stewart platform 6 chains 6 DoF | Delta 3 chains to ground
+- Serial: Workspace
+- Parallel: Payload, Precision, Speed
+- Kinematics, Kinetics, Dynamics
+- Task -> Cartesian, Joint -> $\theta$, Actuator -> $F, T$
+- Slow $\approx$ kinematic
+- Task -> Joint -> Actuator
+- Inverse Dynamics -> Motor sizing and power train design 
+- Revulute joint
+- Multiple solutions
+![[Academia/College/Undergraduate - Senior 1 - S2/Meta/assets/SAVE_20260208_154637.jpg]]uate - Senior 1 - S2/Meta/assets/SAVE_20260208_154637.jpg]]
+- Fixed wing -> aerodynamics, efficient, needs release and landing
+- Multi-rotor -> vertical landing/take off, less efficient
+- Control -> kinematic and dynamic analysis
+- Parallel, Forward -> Singularity
+- Serial, Reverse -> Singularity
+- Robotic arm variations (SCARA, $\Delta$)

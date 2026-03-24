@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/Mohammed159159/undergraduate-senior1-semester2.git",
+      Discussion: "https://github.com/Mohammed159159/undergraduate-senior1-semester2/discussions",
     },
   }),
 }
@@ -38,7 +38,16 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        return (
+          node.isFolder ||
+          node.displayName.endsWith(".md") ||
+          node.displayName.endsWith(".pdf") ||
+          node.displayName !== "Meta"
+        )
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +71,9 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => node.displayName !== "Meta",
+    }),
   ],
   right: [],
 }

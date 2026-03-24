@@ -1,0 +1,5 @@
+- A and $\phi$ are functions of input frequency
+- Transfer functions allow us to easily apply frequency analysis rather than using Fourier transform in the time domain
+- Asymptote = imaginary approximate st line
+- Real roots = 2 1st order | zetta = 0 -> resonance
+- Bode plot

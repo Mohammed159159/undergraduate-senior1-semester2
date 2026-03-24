@@ -1,0 +1,4 @@
+---
+tags:
+  - domains/tech
+---

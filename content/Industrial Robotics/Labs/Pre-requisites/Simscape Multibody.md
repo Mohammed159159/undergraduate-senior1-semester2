@@ -1,0 +1,5 @@
+- Transfer function => for customization (SISO)
+- State space modeling => for customization (MIMO)
+- Simulink -> Equations => for simple systems/control
+- Simscape -> Physical modeling -> Equations => for complex systems
+- Simscape multibody -> Physical 3d modeling (bodies + joints + reference frames) -> Equations = for more, complex, visualization

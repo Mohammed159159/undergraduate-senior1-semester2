@@ -24,6 +24,12 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+          <p>
+            Made with ❤️ by <a href={"https://www.linkedin.com/in/mohammed-meshrif/"}>mohammedhany300</a>
+          </p>
+          <p style={{ fontSize: "smaller" }}>
+            Icons by <a href={"https://www.flaticon.com/"}>Flaticon</a>
+          </p>
       </footer>
     )
   }

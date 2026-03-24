@@ -1,0 +1,2 @@
+- [Quick Understanding of Homogeneous Coordinates for Computer Graphics - YouTube](https://www.youtube.com/watch?v=o-xwmTODTUI)
+- [Homogeneous Coordinates: The 4D Hack for 3D Animations](https://www.youtube.com/watch?v=x1F4eFN_cos)

@@ -1,0 +1,3 @@
+- [Knowledge Base Repository / The Design Society - a worldwide community](https://www.designsociety.org/knowledge-base)
+- [(PDF) The Evolution of the V-Model: From VDI 2206 to a System Engineering Based Approach for Developing Cybertronic Systems](https://www.researchgate.net/publication/321694351_The_Evolution_of_the_V-Model_From_VDI_2206_to_a_System_Engineering_Based_Approach_for_Developing_Cybertronic_Systems)
+- Search for VDI: [Search Results / The Design Society - a worldwide community](https://www.designsociety.org/search#)

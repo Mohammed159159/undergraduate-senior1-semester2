@@ -1,0 +1,4 @@
+- Modules with their power and camera?
+- Autonomous navigation?
+- Progress sheet
+- 
