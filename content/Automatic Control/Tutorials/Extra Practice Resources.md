@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **Exams**
 - [Exams](https://drive.google.com/open?id=1LxG7vxchYIP4I3zzBrqeIzkumASZagGj&usp=drive_copy)
 **Reference Questions**

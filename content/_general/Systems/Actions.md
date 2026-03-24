@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Mindset and experience for discipline, consistency, and performance
 - General tips for guiding my efficiency, productivity, and task management
 - Studying tips for guiding my learning and studying

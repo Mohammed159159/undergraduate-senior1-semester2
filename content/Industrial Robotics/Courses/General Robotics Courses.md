@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - [Intro2Robotics Course Lectures - YouTube](https://www.youtube.com/playlist?list=PLYZT24lofrjXcuu1iBNWu-NprW2wZD3zu)
 - [Robotics 1 - Prof. De Luca Lecture 09 (17 Oct 2014)](https://www.youtube.com/watch?v=dnmHJLk0j-8&list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt&index=10)
 - [Robotics - YouTube](https://www.youtube.com/playlist?list=PLjoIYgWzjQHK8G2O56jsu56dmjWiipguv)

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ```embed
 title: "Sheets - Google Drive"

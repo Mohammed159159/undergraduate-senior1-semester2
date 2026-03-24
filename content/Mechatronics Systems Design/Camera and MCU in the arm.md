@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ## Comparing 3 options
 **Option 3: Raspberry Pi 3 Model B + ESP32 + Raspberry Pi CAM** Let's eliminate this one right out of the gate. As you noted, it adds unnecessary weight, drastically increases power consumption, and requires a much bulkier battery pack on the arm itself. Having two full Linux single-board computers (the Pi 3 on the arm and the Pi 4 on the base) is overkill, especially since the Pi 3 will struggle with ROS2 anyway.

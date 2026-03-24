@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## I/O
 - Address bus
 - Direct memory access 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - [ ] sheet 2 (vid)
 - [ ] sheet 1 quick review
 - [ ] lecture 2 review

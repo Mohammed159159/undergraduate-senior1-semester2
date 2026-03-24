@@ -1,1 +1,4 @@
+---
+dg-publish: true
+---
 https://engasuedu.sharepoint.com/sites/CSE211sUG2018-IntroductiontoEmbeddedSystems40968/Shared%20Documents/General/Recordings/Sheet%204%20-%20Part%202-20260308_210424-Meeting%20Recording.mp4?web=1

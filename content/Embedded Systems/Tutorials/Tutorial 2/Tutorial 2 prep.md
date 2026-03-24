@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 It is all about understanding how hardware and software interact to solve real-world problems. This sheet focuses on the transition from simple circuits to "intelligent" systems.
 
 Here is a breakdown of the concepts and suggested answers to help you lead the discussion or answer questions in class.

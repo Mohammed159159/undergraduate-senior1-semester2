@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - [Education – Arm®](https://www.arm.com/resources/education)
 - [Arm Education](https://github.com/arm-university)
 ## Courses

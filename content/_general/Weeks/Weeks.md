@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - [[Week 2]]
 - [[Week 3]]
 - [[Week 4]]

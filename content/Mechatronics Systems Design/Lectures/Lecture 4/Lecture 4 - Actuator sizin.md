@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Remarks
 - Max temperature -> melting of insulation
 - Temperature in datasheet = 25 Celsius

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Study
 - [[Lecture 3 - Frequency Response]]
 - [[Lecture 4 - Follow Frequency Response]]

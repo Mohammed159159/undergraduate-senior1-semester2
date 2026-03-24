@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Mechatronics textbooks range from broad introductory guides to specialized texts focusing on control systems, robotics, or industrial maintenance. For most beginners and university students, ==**
 
 [Mechatronics: Electronic Control Systems in Mechanical and Electrical Engineering](https://www.google.com/search?q=Mechatronics:+Electronic+Control+Systems+in+Mechanical+and+Electrical+Engineering&kgmid=/g/11h38lpqrz&sa=X&ved=2ahUKEwjlwd6Xpv2SAxX24wIHHUB-EbMQ3egRegQIAhAD)

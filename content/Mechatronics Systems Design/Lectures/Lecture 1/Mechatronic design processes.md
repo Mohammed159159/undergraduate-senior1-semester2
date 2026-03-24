@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Micro vs. Macro problem solving
 ### Micro-cycle problem solving
 The micro-cycle is a repeatable, foundational process used to tackle individual steps within a larger development project. Originating from systems engineering, it allows developers to flexibly navigate complex tasks by arranging these small cycles in series or nesting them inside one another.

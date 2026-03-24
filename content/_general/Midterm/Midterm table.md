@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Friday 27/3--» Advanced manufacture 2:30»3:30
 
 Saturday 28/3 --» Mechatronics system design 10:30»11:30

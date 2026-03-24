@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## What is Inverse Kinematics?
 > [!tip] Given a desired pose (*position* and *orientation*: $x,y,z,\theta_{x},\theta_{y},\theta_{z}$) of the end effector with respect to the base, calculate the joint angles/positions required for achieving this desired pose
 

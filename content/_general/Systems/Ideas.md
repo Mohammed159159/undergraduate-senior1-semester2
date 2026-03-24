@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Check in/Check out
 - Each week is a sprint (make sure it's done)
 - Articulate each week (lectures, tutorials)

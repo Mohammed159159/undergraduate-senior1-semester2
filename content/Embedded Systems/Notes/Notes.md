@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ```embed
 title: "‪Notes‬‏ - Google Drive"
 image: ""

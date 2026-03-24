@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Losses
 - Heat is generally bad for efficiency and system performance
 ### Electric motors

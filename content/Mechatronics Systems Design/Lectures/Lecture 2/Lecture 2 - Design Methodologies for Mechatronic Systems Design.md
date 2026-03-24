@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Introduction
 - [[VDI 2206]]
 - Medicine components = system components -> solving the problem

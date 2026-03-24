@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 *Midterm Content*
 
 - Mechatronics system design till last lecture (all the curriculum and there will not be any lectures or tutorials after midterm) 

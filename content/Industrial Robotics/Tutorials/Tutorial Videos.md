@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ```embed
 title: "Tutorial Videos - Google Drive"

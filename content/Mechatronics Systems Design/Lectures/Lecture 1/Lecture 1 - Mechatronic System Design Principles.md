@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+![[Lecture 01.pdf]]
 
 ## Mechatronics and Synergy
 - System view and big picture are important for ensuring an integrated, optimized, and compatible design

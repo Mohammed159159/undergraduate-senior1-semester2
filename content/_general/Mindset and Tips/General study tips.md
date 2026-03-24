@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Lectures (slides, videos)
 - Tutorials (boards, slides, videos)
 - Sheets

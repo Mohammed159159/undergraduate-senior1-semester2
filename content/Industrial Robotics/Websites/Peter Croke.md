@@ -1,2 +1,5 @@
+---
+dg-publish: true
+---
 - [petercorke/robotics-toolbox-python: Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python)
 - [Home - Peter Corke](https://petercorke.com/)

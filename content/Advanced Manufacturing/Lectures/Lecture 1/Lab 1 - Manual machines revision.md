@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Turning 
 - Collet, 3 jaw chuck
 	- Faster

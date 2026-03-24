@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 https://drive.google.com/drive/folders/1Lso8BpoegkDoOY3MDm2rwhap6TtFFdfV
 
 https://drive.google.com/drive/folders/1gqnLbMY_HoHpyy_5SDNtJvwoQVXimWB9

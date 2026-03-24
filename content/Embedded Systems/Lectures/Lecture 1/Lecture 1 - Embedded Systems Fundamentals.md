@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 https://onedrive.live.com/:p:/g/personal/dfb17aebb07fcfd1/IQDd_SKyG0TUSZofrPsax6wNAT-BGO3FNuHkxw7CiEifsZs?rtime=0A_bCGpp3kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9kZmIxN2FlYmIwN2ZjZmQxL0VkMzlJckliUk5SSm1oLXMteHJIckEwQlA0RVk3Y1UyNGVUSERzS0lTSi14bXc_ZT16aU16SkQ
 
 - Embedded Systems = ease of use + extra features

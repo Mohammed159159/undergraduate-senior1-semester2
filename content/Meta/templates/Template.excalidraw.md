@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 
 excalidraw-plugin: parsed
 

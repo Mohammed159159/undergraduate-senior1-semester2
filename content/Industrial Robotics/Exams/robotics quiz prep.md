@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - [ ] sheet 3 questions
 	- [ ] review
 	- [ ] rest

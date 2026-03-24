@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Why sine in -> sine out?
 - Linear time invariant (LTI) systems can only do a few things on the input (gain, derivative, integration, addition/subtraction)
 - These operations only change the *magnitude* and *phase* of the input sine signal without changing frequency
@@ -106,7 +109,8 @@ $\tau s+1=\frac{1}{\left( \frac{1}{\tau s+1} \right)}$
 ## Summarizing frequency responses
 > [!tip] In general, zero = - pole
 
-![[Lecture 4 2026-03-24 11.35.27.excalidraw.svg]]
+
+ ![[Lecture 4 2026-03-24 11.35.27.excalidraw.svg|500]]
 
 
 ---

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## [[Verification]] vs. [[Validation]]
 Verification ensures a product is built according to specifications ("building the thing right") using static methods like reviews. Validation ensures the final product meets user needs ("building the right thing") through dynamic testing. ==Verification is an internal process, while validation is often external, confirming fitness for purpose==.
 

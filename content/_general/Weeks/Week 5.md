@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 *Week 5*
 
 *Embedded*

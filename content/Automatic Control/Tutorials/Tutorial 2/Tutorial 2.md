@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ```embed
 title: "‪Tutorial 2‬‏ - Google Drive"

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 https://youtube.com/playlist?list=PLMhob6DZV8odSLdhHaWsXaFVKt8qOBgaZ&si=Pxr0YI4QvYWg8HoW
 

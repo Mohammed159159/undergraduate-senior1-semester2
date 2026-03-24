@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 رجوع ال Week 2 بنكهة رمضانية 🌙🏮
 
 *Embedded*

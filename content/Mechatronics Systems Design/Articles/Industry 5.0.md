@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags: resources/articles
 doc_type: hypothesis-highlights
 ---

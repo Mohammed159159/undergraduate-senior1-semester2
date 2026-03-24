@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Transfer function => for customization (SISO)
 - State space modeling => for customization (MIMO)
 - Simulink -> Equations => for simple systems/control

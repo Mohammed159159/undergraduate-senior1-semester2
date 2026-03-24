@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Rigid Motions
 - Rigid motions is all about describing things with respect to each other.
 - It is about describing things (*points* and *vectors*) in a frame (e.g. $x_{1},y_{1},z_{1}$) with respect to a reference frame (e.g. $x_{0},y_{0},z_{0}$).

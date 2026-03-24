@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - NC vs CNC
 - CNC vs Manual
 - Conventional vs. Unconventional

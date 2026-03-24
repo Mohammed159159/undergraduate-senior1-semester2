@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - This is where I can work on the 4:
 	- Academic acceleration
 	- Skills acceleration

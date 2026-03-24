@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Mindset and Experience
 ![[Academic potential]]
 

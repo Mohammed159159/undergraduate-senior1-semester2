@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 1. Vise
 2. Counterweight/counter force spring
 3. Turret/tool magazine

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## What is Forward Kinematics?
 > [!tip] Determining the position and orientation (*pose*) of the end-effector with respect to the base as a function of each joint motion ($q$ which is either $\theta$ or $d$)
 ## Kinematic Chains

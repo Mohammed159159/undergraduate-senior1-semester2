@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Reference tracking vs. disturbance rejection
 - Error regulation = reference tracking
 - Error regulation (closed loop) / error input 

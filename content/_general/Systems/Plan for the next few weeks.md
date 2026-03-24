@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Genuine interest 
 - Academic beast
 - Value extraction

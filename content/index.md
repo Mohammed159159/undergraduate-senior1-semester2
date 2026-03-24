@@ -1,7 +1,7 @@
 ---
-
+dg-publish: true
+dg-home: true
 title: Home
-
 ---
 
 ASUPEDIA = ASU + Encyclopedia

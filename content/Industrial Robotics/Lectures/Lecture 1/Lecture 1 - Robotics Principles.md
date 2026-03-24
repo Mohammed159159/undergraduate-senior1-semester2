@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Kinematic chain (open / closed)
 - Serial vs. Parallel manipulator
 - Stewart platform 6 chains 6 DoF | Delta 3 chains to ground

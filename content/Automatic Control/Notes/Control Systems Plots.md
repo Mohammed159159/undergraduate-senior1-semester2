@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Overview
 [Nichols Chart, Nyquist Plot, and Bode Plot | Control Systems in Practice](https://www.youtube.com/watch?v=QAfk8TuOM68)
 

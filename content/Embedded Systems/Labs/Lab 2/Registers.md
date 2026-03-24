@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Pasted image 20260221064134.png|center]]
 - **Link register**: a Link Register (LR) is ==a specialized CPU register, often designated as R14 in ARM architectures, that stores the return address of a subroutine or function call==.
 ## Concepts

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - [[Registers]]
 > [!success] Fix `CubeMX` cannot be found although it is installed
 > Paste the following code in a `.reg` file and open it

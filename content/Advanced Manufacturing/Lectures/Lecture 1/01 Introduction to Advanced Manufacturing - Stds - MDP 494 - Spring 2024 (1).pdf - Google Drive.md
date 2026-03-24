@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 tags:
 - resources/articles
 annotation-target: https://drive.google.com/uc?export=download&id=1XohYkeHN4T6Lz8AIdKCZ-U8vI8j8ulfX

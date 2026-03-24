@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Or in any semester really...
 
 Consuming:

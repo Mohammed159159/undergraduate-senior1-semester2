@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Classes
 ### Old
 ![[IMG-20260210-WA0003.jpg]]

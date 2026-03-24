@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - https://github.com/henki-robotics/henki_ros2_best_practices
 - https://wiki.ros.org/Tutorials/Best%20Practices
 - https://discourse.openrobotics.org/t/guidelines-on-how-to-architect-ros-based-systems/12641

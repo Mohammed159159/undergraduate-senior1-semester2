@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Requirements
 - Need -> Objective -> Requirements proposal -> Technical requirements
 - Include safety requirements
