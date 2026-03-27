@@ -1,0 +1,13 @@
+---
+dg-publish: true
+---
+- Lectures (slides, videos)
+- Tutorials (boards, slides, videos)
+- Sheets
+- Review and resolve lectures/tutorials to quickly grasp them
+- Solve problems and practice early on, not just before exams
+- Check the nature of midterm questions and actually solve them, not just watch them
+- Check hot drive resources
+- Read from references as you do; it's awesome!
+- Follow up with cool online resources
+- [[Extra stuff to do this semester]]

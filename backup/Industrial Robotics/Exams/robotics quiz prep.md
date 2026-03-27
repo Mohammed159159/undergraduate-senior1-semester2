@@ -1,0 +1,12 @@
+---
+dg-publish: true
+---
+- [ ] sheet 3 questions
+	- [ ] review
+	- [ ] rest
+- [ ] lecture 3 examples
+- [ ] exam examples
+- [ ] advanced examples
+- [ ] sheet 2
+- [ ] sheet 1
+- [ ] lecture 2 review

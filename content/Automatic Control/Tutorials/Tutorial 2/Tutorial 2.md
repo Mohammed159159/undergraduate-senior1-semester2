@@ -11,4 +11,4 @@ favicon: ""
 aspectRatio: "100"
 ```
 
-- [[engine.pdf]]
+![[engine.pdf]]

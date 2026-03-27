@@ -1,0 +1,2 @@
+Renaming files whose name already exists does not work. It does not rename and does not give a notice. Templater plugin struggles with console logs and notices
+Batch import could lead to wrongly renaming files when playlists are included. I am not sure if this is the only issue with it

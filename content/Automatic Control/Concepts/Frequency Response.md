@@ -3,7 +3,7 @@ dg-publish: true
 ---
 ## Study
 - [[Lecture 3 - Frequency Response]]
-- [[Lecture 4 - Follow Frequency Response]]
+- [[Frequency Response Plots - Bode Plot]]
 ## Practice
 - [Frequency response Nise.pdf](https://drive.google.com/open?id=1ZdUC1ShW6E7hEy9OQ3YEzIzv9T2ytuXW&usp=drive_copy)  
 - [Frequency response Ogata.pdf](https://drive.google.com/open?id=1ZcYiL0ICEIZnQ6E0p_TKWR0kL08yhhnq&usp=drive_copy)

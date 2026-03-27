@@ -2,6 +2,7 @@
 dg-publish: true
 tags:
   - resources/videos
+  - folder
 ---
 
 ![](https://youtu.be/OpTEt1Y-gRw?si=nHM6wamO31RMnqxt)

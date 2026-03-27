@@ -1,0 +1,7 @@
+---
+dg-publish: true
+---
+- [Recommended Books - Mechatronics - Library Guides at Penn State University](https://guides.libraries.psu.edu/mechatronics/recbooks)
+- [engyasin/awesome-mechatronics: A list of awesome mechatronics books, courses and software.](https://github.com/engyasin/awesome-mechatronics)
+- [[Recommended Mechatronics Textbooks]]
+- [Mechatronics Ebook – plc4me.com](https://plc4me.com/tag/mechatronics-ebook/)

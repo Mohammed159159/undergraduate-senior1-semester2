@@ -1,0 +1,6 @@
+---
+dg-publish: true
+---
+- [FEA](https://drive.google.com/drive/folders/19WhyToKRKJ-k3-1sdt3zGY2_8qjKgNxh)
+- [Advanced Manufacturing](https://drive.google.com/drive/folders/14pRWpoDI8kZy8WfOObBYMkmkKfRuqj4H)
+- [Advanced Programming](https://drive.google.com/drive/folders/1rU8ELl9XtH1G5sNzCCXVFfbxhjZ3woX1)

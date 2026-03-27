@@ -1,0 +1,32 @@
+---
+dg-publish: true
+---
+- NC vs CNC
+- CNC vs Manual
+- Conventional vs. Unconventional
+- CNC milling -> Vertical
+- N, F high | a low
+- Ball nose
+- Chuck vs. Collet - eccentricity
+- Indexing box not needed
+- Vise is problematic
+	- WP gets inclined
+- Magnetic vise
+- Rotary table -> 4 axis (not really needed)
+- Between two centers
+- Higher Diameter -> Higher depth of cut
+- Hardware 
+	- Ball screw vs. Power screw 
+	- Motors
+- [[Fail-safe design]] for negative z axis 
+- Feed
+	- Free feed (run in, run out?)
+	- Cutting feed 
+- Tool magazine vs. manual (tool collet)
+- Absolute (G90): from reference  | Incremental (G91): from last point
+- G code is for all CNC machines; not all motion functions are used
+- 4 zero offsets for boosting productivity
+- Preparatory functions
+- CW -> cutting edges of cutting tool
+- M7 -> pause
+- 

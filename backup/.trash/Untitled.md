@@ -1,0 +1,2 @@
+- Latch = contact parallel to signal I am afraid to lose
+- When it energizes it disconnects = normally closed
